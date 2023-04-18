@@ -3,7 +3,7 @@
 **_Buruju Sowmya_** sburuju@stevens.edu
 
 **_URL of our public GitHub repo_**
-https://github.com/BurujuSowmya-2/Project2.git
+https://github.com/RachanaZha/cs515_pr2.git
 
 # Estimated hours spent on the project 
 We spent around 50 hours for this project.
